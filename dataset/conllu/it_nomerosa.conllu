@@ -59,7 +59,7 @@
 55	Presses	Presses	PROPN	SP	_	54	flat:name	_	start_char=252|end_char=259|ner=O
 56	de	de	ADP	E	_	58	case	_	start_char=260|end_char=262|ner=O
 57	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	58	det	_	start_char=263|end_char=265|ner=O
-58	Abbaye	Abbaye	PROPN	SP	_	54	nmod	_	start_char=265|end_char=271|ner=O
+58	Abbaye	Abbaye	PROPN	SP	_	54	nmod	_	start_char=265|end_char=271|ner=S-LOC
 59	de	de	ADP	E	_	61	case	_	start_char=272|end_char=274|ner=O
 60	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	61	det	_	start_char=275|end_char=277|ner=O
 61	Source	Source	PROPN	SP	_	58	nmod	_	start_char=278|end_char=284|ner=O
